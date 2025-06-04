@@ -1,47 +1,64 @@
-Juego de Ping Pong en Pygame
-Juego clásico de Ping Pong desarrollado en Python usando la librería Pygame. Permite jugar en modo dos jugadores en la misma computadora, controlando cada paleta con el teclado.
+🎾 Juego de Ping Pong en Pygame
+Juego clásico de Ping Pong desarrollado en Python con Pygame, para dos jugadores en la misma computadora.
 
-Descripción del proyecto
-Este proyecto es una implementación sencilla y funcional del juego de Ping Pong en 2D. Dos jugadores pueden competir en tiempo real, moviendo sus paletas para devolver la pelota. El juego incluye detección de colisiones, marcador y reinicio automático de la pelota tras cada punto.
+📋 Descripción
+Este proyecto es una implementación sencilla y divertida del clásico juego de Ping Pong en 2D. Dos jugadores pueden competir en tiempo real controlando sus paletas para devolver la pelota y anotar puntos.
 
-Capturas de pantalla del proyecto
-(Aquí puedes agregar imágenes del juego en ejecución, por ejemplo, pantallazos de la ventana con las paletas y la pelota)
+El juego incluye:
 
-Prerrequisitos o Dependencias
-Sistema operativo: Windows, macOS o Linux
+Movimiento fluido de paletas con teclado.
 
-Python 3.x (recomendado 3.6 o superior)
+Física básica para la pelota (rebotes en paletas y bordes).
 
-Pygame (versión 2.x)
+Marcador visible en pantalla.
 
-Para instalar Pygame, usa:
+Reinicio automático de la pelota tras cada punto.
 
-text
+🖥️ Capturas de pantalla
+(Agrega aquí imágenes o GIFs del juego para mostrar la interfaz y la jugabilidad)
+
+⚙️ Requisitos
+Python 3.6 o superior
+
+Pygame 2.x
+
+Instalación de Pygame
+Abre tu terminal o consola y ejecuta:
+
+bash
 pip install pygame
-Instalación del proyecto
-Clona o descarga el repositorio con el código fuente.
+🚀 Cómo ejecutar
+Descarga o clona este repositorio.
 
 Asegúrate de tener Python y Pygame instalados.
 
-Guarda el archivo pong.py (o el nombre que desees) con el código del juego.
+Ejecuta el juego con el siguiente comando en la terminal:
 
-Instrucciones para ejecutar el proyecto
-En la terminal o consola, ejecuta:
-
-text
+bash
 python pong.py
-El juego abrirá una ventana donde podrás jugar.
+🎮 Controles
+Jugador 1 (Paleta Izquierda)	Jugador 2 (Paleta Derecha)
+W: Mover paleta hacia arriba	Flecha ↑: Mover paleta hacia arriba
+S: Mover paleta hacia abajo	Flecha ↓: Mover paleta hacia abajo
+🕹️ Cómo jugar
+El objetivo es evitar que la pelota pase tu paleta.
 
-Controles
-Jugador 1 (paleta izquierda): tecla W para subir y S para bajar.
+Cada vez que la pelota pasa una paleta, el jugador contrario suma un punto.
 
-Jugador 2 (paleta derecha): flechas ↑ para subir y ↓ para bajar.
+El marcador se muestra en la parte superior central de la pantalla.
 
-Cómo jugar
-El objetivo es devolver la pelota con la paleta para evitar que pase tu lado.
+El juego continúa indefinidamente hasta que decidas cerrar la ventana.
 
-Cada vez que un jugador falla, el otro anota un punto.
+🔧 Posibles mejoras futuras
+Agregar sonido para rebotes y puntos.
 
-El marcador se muestra en la parte superior central.
+Implementar menú de inicio y fin de juego.
 
-El juego continúa indefinidamente; puedes cerrar la ventana para salir.
+Añadir límite de puntos para declarar un ganador.
+
+Mejorar la inteligencia artificial para juego contra CPU.
+
+Ajustar dificultad y velocidad progresivamente.
+
+📄 Licencia
+Este proyecto está bajo la licencia MIT. Puedes usarlo, modificarlo y distribuirlo libremente.
