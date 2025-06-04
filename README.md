@@ -1,4 +1,8 @@
-🎾 # Juego de Ping Pong en Pygame
+# 🎾 Juego de Ping Pong en Pygame
+# Juego de Ping Pong flipante
+
+## Descripción
+
 Juego clásico de Ping Pong desarrollado en Python con Pygame, para dos jugadores en la misma computadora.
 
 📋 ## Descripción
