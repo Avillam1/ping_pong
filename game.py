@@ -8,8 +8,8 @@ window = display.set_mode((SW, SH))
 display.set_caption('Batalla de Paletas Flipantes')
 
 BACKGROUND = "background.png"
-PLAYER1 = "hero.png"
-PLAYER2 = "cyborg.png"
+PLAYER1 = "player1.png"
+PLAYER2 = "player2.png"
 BOLA_IMG = "bola.png"
 VICTORY_PLAYER1 = "victoryplayer1.png"
 VICTORY_PLAYER2 = "victoryplayer2.png"
@@ -44,8 +44,8 @@ class Player(GameSprite):
 def random_sign():
     return 1 if randint(0, 1) == 1 else -1
 
-player1 = Player(PLAYER1, 30, SH//2 - 70, 50, 150, 10)
-player2 = Player(PLAYER2, SW - 80, SH//2 - 70, 50, 150, 10)
+player1 = Player(PLAYER1, 30, SH//2 - 70, 20, 150, 10)
+player2 = Player(PLAYER2, SW - 80, SH//2 - 70, 20, 150, 10)
 bola = GameSprite(BOLA_IMG, SW//2, SH//2, 50, 50)
 
 speed_x = 7 * random_sign()
