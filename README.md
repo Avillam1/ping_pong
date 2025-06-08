@@ -54,9 +54,7 @@ Agregar sonido para rebotes y puntos.
 
 Implementar menú de inicio y fin de juego.
 
-Añadir límite de puntos para declarar un ganador.
-
-Mejorar la inteligencia artificial para juego contra CPU.
+Crerar una inteligencia artificial para juego contra CPU.
 
 Ajustar dificultad y velocidad progresivamente.
 
