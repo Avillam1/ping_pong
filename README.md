@@ -58,7 +58,7 @@ El juego continúa indefinidamente hasta que decidas cerrar la ventana.
 ## 🔧 Posibles mejoras futuras
 Agregar sonido para rebotes y puntos.
 
-Implementar menú de inicio y fin de juego.
+Implementar menú de inicio.
 
 Crerar una inteligencia artificial para juego contra CPU.
 
