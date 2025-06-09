@@ -16,7 +16,7 @@ Reinicio automático de la pelota tras cada punto.
 
 ##   Archivos Nesecarios
 
-[![paleta1.png](https://i.postimg.cc/Gp41Lxw6/paleta1.png)](https://postimg.cc/XZ6PxFvg)
+[![paleta1.png](https://i.postimg.cc/Gp41Lxw6/paleta1.png)](https://postimg.cc/XZ6PxFvg) (## Player 1)
 
 ## ⚙️ Requisitos
 Python 3.6 o superior
