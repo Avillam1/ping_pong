@@ -37,9 +37,12 @@ Ejecuta el juego con el siguiente comando en la terminal:
 bash
 python pong.py
 ## 🎮 Controles
-Jugador 1 (Paleta Izquierda)	Jugador 2 (Paleta Derecha)
-W: Mover paleta hacia arriba	Flecha ↑: Mover paleta hacia arriba
-S: Mover paleta hacia abajo	Flecha ↓: Mover paleta hacia abajo
+Jugador 1 (Paleta Izquierda)	
+W: Mover paleta hacia arriba
+S: Mover paleta hacia abajo
+Jugador 2 (Paleta Derecha)
+Flecha ↑: Mover paleta hacia arriba
+Flecha ↓: Mover paleta hacia abajo
 ## 🕹️ Cómo jugar
 El objetivo es evitar que la pelota pase tu paleta.
 
