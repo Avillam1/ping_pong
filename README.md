@@ -42,6 +42,7 @@ Jugador 1 (Paleta Izquierda):
 W: Mover paleta hacia arriba
 
 S: Mover paleta hacia abajo
+
 Jugador 2 (Paleta Derecha):
 
 Flecha ↑: Mover paleta hacia arriba
