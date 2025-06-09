@@ -14,6 +14,10 @@ Marcador visible en pantalla.
 
 Reinicio automático de la pelota tras cada punto.
 
+##   Archivos Nesecarios
+
+[![paleta1.png](https://i.postimg.cc/Gp41Lxw6/paleta1.png)](https://postimg.cc/XZ6PxFvg)
+
 ## ⚙️ Requisitos
 Python 3.6 o superior
 
