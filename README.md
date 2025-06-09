@@ -16,9 +16,13 @@ Reinicio automático de la pelota tras cada punto.
 
 ##   Archivos Nesecarios
 [![paleta2.png](https://i.postimg.cc/NfQq9cv6/paleta2.png)](https://postimg.cc/YjDyZT90)  (Player 1)
+
 [![paleta1.png](https://i.postimg.cc/Gp41Lxw6/paleta1.png)](https://postimg.cc/XZ6PxFvg) (Player 2)
+
 [![background.png](https://i.postimg.cc/zXpmTcq9/background.png)](https://postimg.cc/56HkVpY3) (Fondo)
+
 [![victoryplayer1.png](https://i.postimg.cc/2ymJZ4Mk/victoryplayer1.png)](https://postimg.cc/JD6PwBRv) (Cuando el Jugador 1 gane)
+
 [![victoryplayer2.png](https://i.postimg.cc/brT5HZfQ/victoryplayer2.png)](https://postimg.cc/gLx4GkJJ) (Cuando el Jugador 2 gane)
 ## ⚙️ Requisitos
 Python 3.6 o superior
