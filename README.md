@@ -14,11 +14,6 @@ Marcador visible en pantalla.
 
 Reinicio automático de la pelota tras cada punto.
 
-## 🖥️ Capturas de pantalla
-(Agrega aquí imágenes o GIFs del juego para mostrar la interfaz y la jugabilidad)
-
-Player_1.png
-
 ## ⚙️ Requisitos
 Python 3.6 o superior
 
