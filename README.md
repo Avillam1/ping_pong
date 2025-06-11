@@ -1,4 +1,4 @@
-# 🎾 Juego de Ping Pong flipante
+# 🎾 Batalla de Paletas Flipantes
 Juego clásico de Ping Pong desarrollado en Python con Pygame, para dos jugadores en la misma computadora.
 
 ## 📋 Descripción
