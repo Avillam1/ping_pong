@@ -21,6 +21,8 @@ Reinicio automático de la pelota tras cada punto.
 
 [![background.png](https://i.postimg.cc/zXpmTcq9/background.png)](https://postimg.cc/56HkVpY3) (Fondo)
 
+[![bola.png](https://i.postimg.cc/gksWsHhy/bola.png)](https://postimg.cc/9rDKFTJz) (Pelota)
+
 [![victoryplayer1.png](https://i.postimg.cc/2ymJZ4Mk/victoryplayer1.png)](https://postimg.cc/JD6PwBRv) (Cuando el Jugador 1 gane)
 
 [![victoryplayer2.png](https://i.postimg.cc/brT5HZfQ/victoryplayer2.png)](https://postimg.cc/gLx4GkJJ) (Cuando el Jugador 2 gane)
