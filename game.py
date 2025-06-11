@@ -46,7 +46,7 @@ def random_sign():
 
 player1 = Player(PLAYER1, 30, SH//2 - 70, 20, 150, 10)
 player2 = Player(PLAYER2, SW - 80, SH//2 - 70, 20, 150, 10)
-bola = GameSprite(BOLA_IMG, SW//2, SH//2, 50, 50)
+bola = GameSprite(BOLA_IMG, SW//2, SH//2, 50, 80)
 
 speed_x = 7 * random_sign()
 speed_y = 7 * random_sign()
